@@ -1,0 +1,14 @@
+# Contracts (Foundry)
+contracts/cache/
+contracts/out/
+contracts/broadcast/
+contracts/lib/
+contracts/.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# OS
+.DS_Store
